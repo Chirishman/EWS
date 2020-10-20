@@ -12,7 +12,7 @@
 RootModule = 'EWS.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.1.5'
+ModuleVersion = '1.1.6'
 
 # ID used to uniquely identify this module
 GUID = 'd1acb385-ff90-400f-ac66-04ba0da20ed4'
@@ -137,7 +137,7 @@ PrivateData = @{
         IconUri = 'https://raw.githubusercontent.com/bielawb/EWS/master/EWSModuleLogo.png'
 
         # ReleaseNotes of this module
-        # ReleaseNotes = ''
+        ReleaseNotes = 'https://github.com/bielawb/EWS/releases/tag/1.1'
 
     } # End of PSData hashtable
 
